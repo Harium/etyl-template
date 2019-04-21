@@ -11,6 +11,7 @@ public class Main extends Etyl {
 
     public static void main(String[] args) {
         Main main = new Main();
+        main.setTitle("My Project");
         main.init();
     }
 
